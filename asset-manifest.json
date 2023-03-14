@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/booking-flight-webapp/static/css/main.7c1a0294.css",
+    "main.js": "/booking-flight-webapp/static/js/main.79dc8f7f.js",
+    "static/media/background-travel-2.jpg": "/booking-flight-webapp/static/media/background-travel-2.1b3bc05ab3ab53a29ab2.jpg",
+    "index.html": "/booking-flight-webapp/index.html",
+    "main.7c1a0294.css.map": "/booking-flight-webapp/static/css/main.7c1a0294.css.map",
+    "main.79dc8f7f.js.map": "/booking-flight-webapp/static/js/main.79dc8f7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c1a0294.css",
+    "static/js/main.79dc8f7f.js"
+  ]
+}
